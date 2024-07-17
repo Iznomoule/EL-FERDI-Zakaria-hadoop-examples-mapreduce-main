@@ -6,10 +6,6 @@
 ## 1.8 Remarkable tress of Paris
 
 ```
-login as: zakaria.el-ferdi
-zakaria.el-ferdi@bigdata01.efrei.hadoop.clemlab.io's password:
-Last login: Tue Jul 16 09:40:26 2024 from 89.39.107.193
-[zakaria.el-ferdi@bigdata01 ~]$ kinit zakaria.el-ferdi                          Password for zakaria.el-ferdi@EFREI.HADOOP.CLEMLAB.IO:
 [zakaria.el-ferdi@bigdata01 ~]$ hdfs dfs -ls
 Found 12 items
 drwx------   - zakaria.el-ferdi zakaria.el-ferdi          0 2024-07-16 02:00 .Trash
